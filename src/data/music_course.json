@@ -1,0 +1,84 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Piano for Beginners",
+            "slug": "piano-for-beginners",
+            "description": "Start your musical journey with piano basics, notes, and simple melodies.",
+            "price": 89.99,
+            "instructor": "Emily Clark",
+            "isFeatured": false,
+            "image": "/courses/piano.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Advanced Violin Techniques",
+            "slug": "advanced-violin-techniques",
+            "description": "Master complex violin techniques and elevate your performance skills.",
+            "price": 149.99,
+            "instructor": "Michael Lee",
+            "isFeatured": true,
+            "image": "/courses/violin.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Music Theory Essentials",
+            "slug": "music-theory-essentials",
+            "description": "Understand the core principles of music theory to improve your compositions.",
+            "price": 59.99,
+            "instructor": "Sarah Green",
+            "isFeatured": false,
+            "image": "/courses/theory.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Drumming Masterclass",
+            "slug": "drumming-masterclass",
+            "description": "Develop rhythm, timing, and technique with hands-on drumming lessons.",
+            "price": 119.99,
+            "instructor": "Alex Johnson",
+            "isFeatured": true,
+            "image": "/courses/drums.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Singing for Beginners",
+            "slug": "singing-for-beginners",
+            "description": "Find your voice with guided exercises and vocal warm-ups for beginners.",
+            "price": 79.99,
+            "instructor": "Laura White",
+            "isFeatured": false,
+            "image": "/courses/singing.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Electronic Music Production",
+            "slug": "electronic-music-production",
+            "description": "Learn to create electronic music using DAWs, synths, and mixing tools.",
+            "price": 129.99,
+            "instructor": "David King",
+            "isFeatured": true,
+            "image": "/courses/electronic.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Songwriting Workshop",
+            "slug": "songwriting-workshop",
+            "description": "Unlock your creativity and learn how to write compelling lyrics and melodies.",
+            "price": 109.99,
+            "instructor": "Rachel Adams",
+            "isFeatured": false,
+            "image": "/courses/songwriting.jpg"
+        }
+    ]
+}
