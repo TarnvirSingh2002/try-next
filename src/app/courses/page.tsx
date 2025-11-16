@@ -1,5 +1,6 @@
 import React from "react";
 import { CardContainer, CardItem, CardBody } from '@/components/ui/3d-card'
+import Footer from "@/components/Footer";
 const courses = [
   {
     name: "Beginner Guitar Course",
@@ -103,6 +104,7 @@ export default function page() {
                     </CardContainer>
                 ))}
             </div>
+             <Footer/>
         </div>
     )
 }

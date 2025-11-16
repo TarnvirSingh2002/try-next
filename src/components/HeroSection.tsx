@@ -12,8 +12,7 @@ export default function HeroSection() {
       <div className='h-auto md:h-[40rem] w-full rounded-md flex flex-col items-center justify-center relative overflow-hidden mx-auto py-10 md:py-0'>
         <div className='p-4 relative z-10 w-full text-center'>
           <h1 className='mt-20 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neurtal-50 to-neutral-400'>Master the art of music</h1>
-          <p className='mt-4 font-normal text-base md:text-lg text neutral-300 max-w-lg mx-auto'>Did you want to transfer your carrer to some thing special and want to enjoy your life.
-            then leave your house and start a new journey by your own and create a better world. where there is no one to disturb you
+          <p className='mt-4 font-normal text-base md:text-lg text neutral-300 max-w-lg mx-auto'>Learn at your own pace through interactive lessons, personalized guidance, and practical exercises crafted for the modern musician. From mastering your first chord to composing your own music, our platform gives you everything you need to turn passion into performance.
           </p>
           <div className='mt-4'>
             <Link href={'/courses'}>

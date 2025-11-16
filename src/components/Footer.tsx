@@ -23,7 +23,7 @@ import { FaFacebook, FaInstagram, FaYoutube, FaSpotify } from "react-icons/fa";
 
 export default function Footer() {
   return (
-    <footer className="bg-black text-gray-400 py-12">
+    <footer className="bg-black text-gray-400 py-3">
       <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 px-4 lg:px-8">
         
         {/* LOGO / ABOUT */}
@@ -82,7 +82,7 @@ export default function Footer() {
       </div>
 
       {/* Bottom line */}
-      <div className="text-center text-gray-500 mt-10 border-t border-gray-800 pt-6">
+      <div className="text-center text-gray-500 mt-2 border-t border-gray-800 pt-2">
         © 2025 MusicWave. All rights reserved.
       </div>
     </footer>

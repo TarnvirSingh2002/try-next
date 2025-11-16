@@ -5,40 +5,40 @@ import { HoverEffect } from './ui/card-hover-effect'
 
 const projects = [
   {
-    title: "Stripe",
+    title: "Mastering Guitar Basics",
     description:
-      "A technology company that builds economic infrastructure for the internet.",
-    link: "https://stripe.com",
+      "Learn essential chords, strumming patterns, and rhythm techniques to kickstart your guitar journey.",
+    link: "/webinars/guitar-basics",
   },
   {
-    title: "Netflix",
+    title: "Vocal Training Essentials",
     description:
-      "A streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.",
-    link: "https://netflix.com",
+      "Improve your vocal range, breathing techniques, and pitch control with guided vocal exercises.",
+    link: "/webinars/vocal-training",
   },
   {
-    title: "Google",
+    title: "Music Production for Beginners",
     description:
-      "A multinational technology company that specializes in Internet-related services and products.",
-    link: "https://google.com",
+      "Discover the fundamentals of digital audio workstations, mixing, and creating your first track.",
+    link: "/webinars/music-production",
   },
   {
-    title: "Meta",
+    title: "Piano & Keyboard Foundations",
     description:
-      "A technology company that focuses on building products that advance Facebook's mission of bringing the world closer together.",
-    link: "https://meta.com",
+      "Understand scales, chords, melodies, and techniques to build a strong foundation in piano playing.",
+    link: "/webinars/piano-foundations",
   },
   {
-    title: "Amazon",
+    title: "Songwriting & Composition",
     description:
-      "A multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
-    link: "https://amazon.com",
+      "Learn how to craft emotional lyrics, build strong melodies, and create structured compositions.",
+    link: "/webinars/songwriting",
   },
-  {
-    title: "Microsoft",
+    {
+    title: "Live Performance & Stage Skills",
     description:
-      "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
-    link: "https://microsoft.com",
+      "Develop stage presence, microphone technique, confidence, and performance flow for live shows.",
+    link: "/webinars/live-performance",
   },
 ];
 

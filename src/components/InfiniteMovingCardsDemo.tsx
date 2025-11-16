@@ -5,7 +5,7 @@ import { cn } from "@/utils/cn";
 
 export function InfiniteMovingCardsDemo() {
     return (
-        <div 
+        <div
             className="h-[30rem] w-full dark:bg-black relative flex flex-col items-center justify-center overflow-hidden"
         >
             {/* 🔥 GRID BACKGROUND ADDED HERE */}
@@ -19,7 +19,7 @@ export function InfiniteMovingCardsDemo() {
             />
 
             <h2 className="text-3xl font-bold text-center mb-8 z-10">
-                Hear Our Harmony: Apple Music
+                Hear Our Harmony: Evolving Soundscapes
             </h2>
 
             <div className="w-full max-width-6xl z-10">
@@ -32,35 +32,35 @@ export function InfiniteMovingCardsDemo() {
         </div>
     );
 }
-
 const testimonials = [
     {
         quote:
-            "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
-        name: "Charles Dickens",
-        title: "A Tale of Two Cities",
+            "This platform transformed the way I learn music. The structured lessons and real-time guidance helped me pick up guitar faster than I ever imagined.",
+        name: "Arjun Mehta",
+        title: "Guitar Student",
     },
     {
         quote:
-            "To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take Arms against a Sea of troubles, And by opposing end them: to die, to sleep.",
-        name: "William Shakespeare",
-        title: "Hamlet",
-    },
-    {
-        quote: "All that we see or seem is but a dream within a dream.",
-        name: "Edgar Allan Poe",
-        title: "A Dream Within a Dream",
+            "I always struggled with vocals, but the coaches here taught me breathing, pitch control, and confidence. I can finally sing the songs I love.",
+        name: "Sana Kapoor",
+        title: "Vocal Training Student",
     },
     {
         quote:
-            "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
-        name: "Jane Austen",
-        title: "Pride and Prejudice",
+            "The production course was unreal. From mixing to mastering, everything was explained so clearly. Now I make my own tracks at home.",
+        name: "Ryan Thomas",
+        title: "Music Production Learner",
     },
     {
         quote:
-            "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
-        name: "Herman Melville",
-        title: "Moby-Dick",
+            "Learning piano has never been this fun. The interactive exercises and personalized feedback kept me motivated every day.",
+        name: "Emily Rodriguez",
+        title: "Piano Enthusiast",
+    },
+    {
+        quote:
+            "As a complete beginner, I was nervous to start. But the instructors were patient, skilled, and incredibly encouraging. Best decision ever!",
+        name: "Harsh Verma",
+        title: "Beginner Music Student",
     },
 ];

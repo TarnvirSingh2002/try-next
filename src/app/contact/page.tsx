@@ -1,6 +1,7 @@
 "use client";
 import React from "react";
 import { Meteors } from "@/components/ui/meteors";
+import Footer from "@/components/Footer";
 
 export default function Page() {
   return (
@@ -85,6 +86,7 @@ export default function Page() {
           </form>
         </section>
       </main>
+      <Footer/>
     </div>
   );
 }

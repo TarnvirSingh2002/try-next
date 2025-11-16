@@ -79,6 +79,16 @@
             "instructor": "Rachel Adams",
             "isFeatured": false,
             "image": "/courses/songwriting.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Live Performance Mastery",
+            "slug": "live-performance-mastery",
+            "description": "Build stage confidence, improve crowd interaction, and master techniques for unforgettable live performances.",
+            "price": 129.99,
+            "instructor": "David Mitchell",
+            "isFeatured": false,
+            "image": "/courses/live-performance.jpg"
         }
     ]
 }
